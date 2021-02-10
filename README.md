@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# A React Application with Geo Locations API Example.
+
+# API URL: http://www.geonames.org/export/web-services.html
 
 ## Available Scripts
 
